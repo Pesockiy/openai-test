@@ -53,7 +53,7 @@ export default function Home() {
             />
           </Form>
         </Col>
-        <Col lg={6}>
+        <Col lg={4}>
           <Button variant="danger" type="submit" onClick={onSubmit}>сгенерировать</Button>
         </Col>
       </Row>
